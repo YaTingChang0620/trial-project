@@ -17,4 +17,8 @@ dependencies:
   - nose
   - pip:
     - pgcontents
+    - numpy
+    - pandas
+    - matplotlib
+    - plotly
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
